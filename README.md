@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
+- [Visite o projeto online](https://github.com/klerog20/Projects-nlw_Setup)
 
 ## 🔖 Layout
 
@@ -46,3 +47,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+[def]: https://github.com/klerog20/Projects-nlw_Setup
